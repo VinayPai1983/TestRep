@@ -1,1 +1,1 @@
-This is a sample file. We need this just to learn GIXT. Love the way got does things.
+This is a sample file. We need this just to learn GIT. Love the way got does things.
